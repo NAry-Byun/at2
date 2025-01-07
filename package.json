@@ -1,5 +1,5 @@
 {
-  "name": "noona",
+  "name": "at2",
   "version": "1.0.0",
   "description": "A sample project for Azure deployment",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NAry-Byun/introduction.git"
+    "url": "git+https://github.com/NAry-Byun/at2.git"
   },
   "keywords": [],
   "author": "NAry Byun",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NAry-Byun/introduction/issues"
+    "url": "https://github.com/NAry-Byun/at2/issues"
   },
-  "homepage": "https://github.com/NAry-Byun/introduction#readme",
+  "homepage": "https://github.com/NAry-Byun/at2n#readme",
   "engines": {
     "node": "18.x"
   },
